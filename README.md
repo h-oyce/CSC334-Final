@@ -18,7 +18,11 @@ The data analysis is conducted in Python using the Pandas and Plotly packages. T
 
 ## Results
 
+Overall, the 
 
+- A large change in prevalence between 2000-2005 and 2005-2010
+- Increase in prevalence rates over time
+- More countries have data over time
 
 ## Ethical Concerns
 
