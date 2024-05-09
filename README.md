@@ -23,7 +23,7 @@ Overall, the prevalence of autism across the world increased as time progressed.
 ## Ethical Concerns
 
 1. **Representation**: Many of the studies were performed in Western countries and had a strong bias to diagnose boys under the age of 18.
-2. **Stigma and potential harm**: While autism is more well understood today, this was not always the case. Some of the events discussed are strong reminders of the history of intense ableism.
+2. **Stigma and potential harm**: While autism is more well understood today, this was not always the case. Some of the events discussed are strong reminders of the history of eugenics and intense ableism. While this is not representative of how autism is thought of today, they are still part of its history. The potential for harm in discussing these events is still very possible so I hope they will be discussed carefully. 
 
 ## Future Work
 
