@@ -18,11 +18,7 @@ The data analysis is conducted in Python using the Pandas and Plotly packages. T
 
 ## Results
 
-Overall, the 
-
-- A large change in prevalence between 2000-2005 and 2005-2010
-- Increase in prevalence rates over time
-- More countries have data over time
+Overall, the prevalence of autism across the world increased as time progressed. From the visualization, the largest spike in prevalence occurred between 2000-2005 and 2005-2010, with every 5-year choropleth map after 2010 also having a large increase in prevalence rates. Additionally, there are many countries that had their first published prevalence studies after 2005, such as China, India, Brazil, Nigeria, and Saudi Arabia. A majority of the countries that had their first prevalence studies published after 2005 were located in Asia, Africa, and South America. When these countries did have published prevalence rates, they were significantly lower than North American and European countries' published rates. This may be due to disparities in resources for diagnosis, in autism awareness, or in cultural acceptance of autism. 
 
 ## Ethical Concerns
 
@@ -31,5 +27,5 @@ Overall, the
 
 ## Future Work
 
-1. In future interactions, I would try to incorporate the Shiny package to allow for more control over the printing of the choropleth maps. As the code is currently written, the faceted maps are difficult to read and interpret due to their small size. I got the suggestion from Professor Jordan Crouser during our presentation day, but I struggled to integrate it myself. 
+1. In future interactions, I would try to incorporate the [Shiny package](https://shiny.posit.co/py/docs/install-create-run.html#install) to allow for more control over the printing of the choropleth maps. As the code is currently written, the faceted maps are difficult to read and interpret due to their small size. I got the suggestion from Professor Jordan Crouser during our presentation day, but I struggled to integrate it myself. 
 2. In the _____.csv file, I began to compile significant events and milestones in autism research, awareness, and the community as a whole. I hope to use these events as points of comparison to the prevalence data in the future to answer questions such as "What historical events had the greatest impact on autism prevalence? Who benefits most from raising awareness of autism? How does autism research's ableist past affect modern research?" 
