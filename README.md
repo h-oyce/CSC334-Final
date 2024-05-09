@@ -20,10 +20,6 @@ The data analysis is conducted in Python using the Pandas and Plotly packages. T
 
 Overall, the prevalence of autism across the world increased as time progressed. From the visualization, the largest spike in prevalence occurred between 2000-2005 and 2005-2010, with every 5-year choropleth map after 2010 also having a large increase in prevalence rates. Additionally, there are many countries that had their first published prevalence studies after 2005, such as China, India, Brazil, Nigeria, and Saudi Arabia. A majority of the countries that had their first prevalence studies published after 2005 were located in Asia, Africa, and South America. When these countries did have published prevalence rates, they were significantly lower than North American and European countries' published rates. This may be due to disparities in resources for diagnosis, in autism awareness, or in cultural acceptance of autism. 
 
-- A large change in prevalence between 2000-2005 and 2005-2010
-- Increase in prevalence rates over time
-- More countries have data over time
-
 ## Ethical Concerns
 
 1. **Representation**: Many of the studies were performed in Western countries and had a strong bias to diagnose boys under the age of 18.
